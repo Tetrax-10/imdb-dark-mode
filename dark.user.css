@@ -59,6 +59,10 @@
     .ipc-overflowText.ipc-overflowText--base.ipc-overflowText--listCard .ipc-overflowText-overlay {
         background: unset;
     }
+    /* movie page storyline card */
+    .ipc-overflowText.ipc-overflowText--base.ipc-overflowText--pageSection .ipc-overflowText-overlay {
+        background: unset;
+    }
 
     /* list pages raing icon */
     .ipc-rating-star--base.ipc-rating-star--currentUser .ipc-icon,
