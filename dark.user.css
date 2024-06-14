@@ -24,6 +24,7 @@
         --ipt-base-shade3-bg: var(--cards-bg);
         --ipt-baseAlt-shade2-bg: var(--cards-bg);
         --ipt-base-shade1-bg: var(--cards-bg);
+        --ipc-blockQuote-base-accent1-bg: var(--cards-bg);
         --ipt-on-base-textPrimary-color: var(--text-color); /* text bg */
         --ipt-on-base-textHint-color: var(--text-color);
         --ipt-on-base-textIcon-color: var(--text-color);
@@ -71,5 +72,13 @@
     .ipc-scroll-to-top-button:hover {
         background: var(--cards-bg);
         color: var(--text-color) !important;
+    }
+
+    /* list edit page buttons */
+    .ipc-btn--theme-base .ipc-split-button__btn:disabled,
+    .ipc-btn--theme-base .ipc-split-button__iconBtn:disabled,
+    .ipc-btn--theme-base:not(.ipc-split-button):disabled {
+        background: var(--link-color);
+        color: var(--primary-bg);
     }
 }
