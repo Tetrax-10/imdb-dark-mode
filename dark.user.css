@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           IMDb Dark Mode
 @description    Dark Mode for IMDb
-@version        1.1
+@version        1.2
 @namespace      https://github.com/Tetrax-10/imdb-dark-mode
 @author         Tetrax-10
 @license        MIT
@@ -20,6 +20,8 @@
     :root {
         --ipt-base-bg: var(--primary-bg); /* primary bg */
         --ipt-baseAlt-bg: var(--primary-bg);
+        --ipc-pageSection-base-bg: var(--primary-bg); /* mobile */
+        --ipc-pageSection-baseAlt-bg: var(--primary-bg); /* mobile */
         --ipc-listCard-base-bg: var(--cards-bg); /* cards bg */
         --ipt-base-shade3-bg: var(--cards-bg);
         --ipt-baseAlt-shade2-bg: var(--cards-bg);
