@@ -6,7 +6,8 @@ Works better with Ublock Origin and [Imdb-clean-as-fuck UserJS](https://github.c
 
 ## Installation
 
-[Click me](https://raw.githubusercontent.com/Tetrax-10/imdb-dark-mode/main/dark.user.css) and then click `Install style`
+1. Install [Stylus](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) extension.
+2. Then, [click me](https://raw.githubusercontent.com/Tetrax-10/imdb-dark-mode/main/dark.user.css) and then click `Install style`.
 
 ## screenshots
 
